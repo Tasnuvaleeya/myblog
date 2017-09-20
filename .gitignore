@@ -1,0 +1,11 @@
+__pycache__
+migrations
+local
+lib
+include
+bin
+*.pyc
+pip-selfcheck.json
+.idea
+db.sqlite3
+
